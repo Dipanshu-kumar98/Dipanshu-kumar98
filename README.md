@@ -26,7 +26,7 @@
 
 ## 📂 Projects
 
-### 🔹 Project 1: E-commerce Website
+### 🔹 Project 1: Job-portal-mern app
 
 * Built using MERN Stack
 * Features: Login, Signup, Cart, Payment
@@ -35,6 +35,10 @@
 
 * JWT-based login system
 * Secure routes implementation
+
+###   Project 3: Wanderlust Hotel view and review mern app
+* Build using, Mongodb, Express, Nodejs,Ejs
+* Feature :Login,Signup,Create,Delete,Review,Comments,Authorization
 
 ---
 
