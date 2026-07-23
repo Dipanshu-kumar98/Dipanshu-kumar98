@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dipanshu Kumar
 
-🚀 Aspiring MERN Stack Developer
+🚀 Aspiring Full Stack Developer
 💻 Passionate about Web Development & Problem Solving
 
 ---
